@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aliibtisam1001/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/aliibtisam1001/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/aliibtisam1001/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
