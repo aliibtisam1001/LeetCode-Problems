@@ -9,11 +9,7 @@ class Solution(object):
             a=str(bin(i)).count('1')
             h.append(a)
         return h
-        # output=[]
-        # for j in h:
-        #     a=j.count('1')
-        #     output.append(a)
-        # return output
+        
         
 
 # Synced seamlessly with LeetHub Pro
