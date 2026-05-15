@@ -6,13 +6,14 @@ class Solution(object):
         """
         h=[]
         for i in range(n+1):
-            a=str(bin(i))
-            h.append(a[2:])
-        output=[]
-        for j in h:
-            a=j.count('1')
-            output.append(a)
-        return output
+            a=str(bin(i)).count('1')
+            h.append(a)
+        return h
+        # output=[]
+        # for j in h:
+        #     a=j.count('1')
+        #     output.append(a)
+        # return output
         
 
 # Synced seamlessly with LeetHub Pro
